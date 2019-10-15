@@ -1,0 +1,9 @@
+{
+  "title": "测试",
+  "name": "test",
+  "ps": "测试",
+  "versions": "0.01",
+  "checks": "/www/server/panel/plugin/test",
+  "author": "小葱",
+  "home": "http://test.com"
+}
